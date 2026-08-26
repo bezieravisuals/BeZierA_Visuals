@@ -29,7 +29,7 @@ const messages = [];
 const portfolio = [];
 
 const adminEmail = 'bezieravisuals@gmail.com';
-const adminPassword = 'DEVAVENKATACHALAM@25';
+const adminPassword = 'devanithi';
 
 const ensureDefaultAdmin = () => {
   const existingAdmin = users.find(user => user.email === adminEmail || user.username === adminEmail);

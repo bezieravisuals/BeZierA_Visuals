@@ -1,32 +1,28 @@
-# BeZierA_Visuals
+# BeZierA Visuals
 
 ### Turning Ideas Into Visual Experiences
 
-**BeZierA** is a creative digital solutions company focused on transforming ideas into engaging visual experiences through **graphic design, photo and video editing, 3D modeling, animation, and web solutions.**
+BeZierA Visuals is a creative digital studio focused on transforming ideas into premium visual and digital experiences.
 
-## ✨ What We Do
+## Services
 
-* 🎨 Graphic Designing
-* 📸 Photo Editing
-* 🎬 Video Editing
-* 🎞️ Animation
-* 🧊 3D Modeling & Visualization
-* 💻 Web & Digital Solutions
+- Graphic Design
+- Photo Editing
+- Video Editing
+- Animation
+- 3D Modeling
+- Web Development
 
-## 🚀 Our Vision
+## About
 
-To transform creative ideas into premium, engaging, and impactful digital experiences.
+We combine creativity, design, technology, and visual storytelling to create professional digital solutions for individuals, businesses, and brands.
 
-## 🌐 Website
+## Website
 
-BeZierA — *Your Idea. Our Creativity.*
+Official Website:
 
-## 📂 Project
-
-This repository contains the source code and assets for the **BeZierA Visuals** website.
+https://bezieravisuals.github.io/BeZierA_Visuals/
 
 ---
 
-### © 2026 BeZierA Visuals
-
-**All Rights Reserved.**
+© 2026 BeZierA Visuals. All Rights Reserved.

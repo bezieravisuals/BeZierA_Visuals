@@ -1,28 +1,19 @@
-# BeZierA Visuals
+# BeZierA
 
-### Turning Ideas Into Visual Experiences
+Public website: `http://beziera_visuals.com/`
 
-BeZierA Visuals is a creative digital studio focused on transforming ideas into premium visual and digital experiences.
+Premium creative technology studio website with a React/Vite frontend and Express REST API.
 
-## Services
+## Run in Visual Studio
 
-- Graphic Design
-- Photo Editing
-- Video Editing
-- Animation
-- 3D Modeling
-- Web Development
+1. Install Node.js 20+.
+2. Run `npm install`.
+3. Copy `.env.example` to `.env` and set `JWT_SECRET` and `MONGODB_URI`.
+4. Run `npm run dev`.
+5. Open `http://localhost:5173`.
 
-## About
+The API runs at `http://localhost:4000`. It uses an in-memory store when MongoDB is not running, so the demo can be explored immediately. The production integration point is `server/server.js`, where the suggested User, Project, Portfolio, Message and ProjectActivity collections can be wired to Mongoose.
 
-We combine creativity, design, technology, and visual storytelling to create professional digital solutions for individuals, businesses, and brands.
+Demo admin: `admin` / `BeZierA2026!`
 
-## Website
-
-Official Website:
-
-https://bezieravisuals.github.io/BeZierA_Visuals/
-
----
-
-© 2026 BeZierA Visuals. All Rights Reserved.
+API: `GET /api/health`, `GET /api/portfolio`, `POST /api/auth/signup`, `POST /api/auth/login`, `GET /api/projects`, `POST /api/projects`, `PATCH /api/projects/:id`, `POST /api/contact`, `GET /api/admin/analytics`.
